@@ -25,7 +25,7 @@
 
 ## TL;DR
 
- credit Source for this website thx to  [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+ credit Source for this website To [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
